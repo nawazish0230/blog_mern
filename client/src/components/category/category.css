@@ -1,0 +1,9 @@
+.category-main-container{
+    padding: 1rem 5rem;
+}
+
+@media (max-width: 480px){
+    .category-main-container{
+        padding: 1rem 1rem;
+    }
+}
